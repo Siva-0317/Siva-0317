@@ -13,7 +13,7 @@ I love solving problems, building intelligent systems, and exploring deep learni
 ### 🔗 Connect with me:
 
 <p align="left">
-  <a href="www.linkedin.com/in/sivakumarbalaji" target="_blank">
+  <a href="https://www.linkedin.com/in/sivakumarbalaji/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/u/Sivakumar_Balaji/" target="_blank">
